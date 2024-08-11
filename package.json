@@ -9,7 +9,6 @@
     "build": "webpack",
     "watch": "webpack --watch",
     "deploy": "git subtree push --prefix dist origin gh-pages"
-
   },
   "keywords": [],
   "author": "",
